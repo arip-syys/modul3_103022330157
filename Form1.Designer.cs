@@ -138,9 +138,8 @@
             this.output.AutoSize = true;
             this.output.Location = new System.Drawing.Point(242, 62);
             this.output.Name = "output";
-            this.output.Size = new System.Drawing.Size(68, 13);
+            this.output.Size = new System.Drawing.Size(0, 13);
             this.output.TabIndex = 9;
-            this.output.Text = "Label Output";
             this.output.Click += new System.EventHandler(this.output_Click);
             // 
             // tambah
